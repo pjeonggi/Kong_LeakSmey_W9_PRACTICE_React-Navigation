@@ -1,2 +1,2 @@
-# Kong_LeakSmey_S2_PRACTICE_React-Navigation
+# Kong_LeakSmey_W9_PRACTICE_React-Navigation
 w9 homework
